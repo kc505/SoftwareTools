@@ -11,5 +11,7 @@ def home():
 
 
 if __name__ == '__main__':
+    # Run the app in debug mode for development
     app.run(debug=True)
+    
     
